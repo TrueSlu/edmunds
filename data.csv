@@ -2,7 +2,7 @@ CarNum,Make,Model,Price,Color,Year,Miles,Drive,CityMpg,HwyMpg,Transmission
 JTMDFREVXJJ208066,Toyota,RAV4,25598,Magnetic Gray Metallic,2018,26342,all wheel drive,22,28,automatic transmission
 2T3P1RFV3LW084284,Toyota,RAV4,29949,Super White,2020,11760,all wheel drive,27,33,automatic transmission
 2T3A1RFV9LC087519,Toyota,RAV4,34995,Ruby Flare Pearl,2020,7968,all wheel drive,27,33,automatic transmission
-2T3P1RFV6LC078657,Toyota,RAV4,29000,Blueprint,2020,19585,203 horsepower,27,33,all wheel drive
+2T3P1RFV6LC078657,Toyota,RAV4,29000,Blueprint,2020,19585,all wheel drive,27,33,all wheel drive
 JTMRK4DV8A5090789,Toyota,RAV4,13991,Barcelona Red Metallic,2010,133151,four wheel drive,19,26,automatic transmission
 2T3W1RFV0LC052423,Toyota,RAV4,26999,Magnetic Gray Metallic,2020,28775,front wheel drive,27,35,automatic transmission
 2T3DFREVXJW758904,Toyota,RAV4,29854,Blizzard Pearl,2018,22209,all wheel drive,22,28,automatic transmission
@@ -26,10 +26,10 @@ JTMBFREV1HJ154562,Toyota,RAV4,21950,Super White,2017,13645,all wheel drive,22,28
 JTMBFREV6JJ193623,Toyota,RAV4,19998,Silver Sky Metallic,2018,25685,all wheel drive,22,28,automatic transmission
 2T3P1RFV0LC093297,Toyota,RAV4,26299,Silver Sky Metallic,2020,23532,all wheel drive,27,33,automatic transmission
 2T3P1RFV3KW075924,Toyota,RAV4,26630,Midnight Black Metallic,2019,22911,all wheel drive,25,33,automatic transmission
-2T3P1RFV3LC079295,Toyota,RAV4,24990,Magnetic Gray Metallic,2020,31667,203 horsepower,27,33,all wheel drive
+2T3P1RFV3LC079295,Toyota,RAV4,24990,Magnetic Gray Metallic,2020,31667,all wheel drive,27,33,all wheel drive
 2T3ZFREV5JW446690,Toyota,RAV4,20050,Black,2018,31227,front wheel drive,23,30,automatic transmission
 2T3W1RFV0LC051403,Toyota,RAV4,26499,Midnight Black Metallic,2020,28537,front wheel drive,27,35,automatic transmission
-2T3J1RFV7LC100669,Toyota,RAV4,29990,Midnight Black Metallic,2020,37533,203 horsepower,25,33,all wheel drive
+2T3J1RFV7LC100669,Toyota,RAV4,29990,Midnight Black Metallic,2020,37533,all wheel drive,25,33,all wheel drive
 2T3WFREV8EW109651,Toyota,RAV4,17450,Blue Crush Metallic,2014,39209,front wheel drive,24,31,automatic transmission
 2T3W1RFV1LC054763,Toyota,RAV4,26499,Super White,2020,28673,front wheel drive,27,35,automatic transmission
 JTMWFREV7JD111852,Toyota,RAV4,19998,Magnetic Gray Metallic,2018,54109,front wheel drive,23,30,automatic transmission
