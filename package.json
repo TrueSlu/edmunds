@@ -1,0 +1,22 @@
+{
+  "name": "edmunds",
+  "version": "1.0.0",
+  "description": "edmunds.com scraper for statistics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueSlu/edmunds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrueSlu/edmunds/issues"
+  },
+  "homepage": "https://github.com/TrueSlu/edmunds#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
